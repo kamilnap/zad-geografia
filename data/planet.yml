@@ -1,0 +1,8 @@
+#
+# Klasa: Planet
+# lista planet
+#
+
+- { name: "Jowisz", radius: 69 911 }
+- { name: "Wenus", radius: 6 052 }
+- { name: "Ziemia", radius: 6 371 }
