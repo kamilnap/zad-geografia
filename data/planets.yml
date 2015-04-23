@@ -1,0 +1,8 @@
+#
+# Klasa: Planets
+# dlugosc rownika planet
+#
+
+- { name: "Mars", area: 7835 }
+- { name: "Ziemia", area: 1943 }
+- { name: "Wenus", area: 1425 }
